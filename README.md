@@ -51,7 +51,7 @@ src/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/woonnajeevan7-coder/todo-app.git
+git clone <YOUR_REPO_LINK_HERE>
 cd todo-app
 
 # 2. Install dependencies
@@ -61,7 +61,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5174** in your browser.
+Open **http://localhost:5173** in your browser.
 
 ### Build for production
 
