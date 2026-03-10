@@ -61,7 +61,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5173** in your browser.
+Open **http://localhost:5174** in your browser.
 
 ### Build for production
 
@@ -91,4 +91,4 @@ npm run preview   # preview the production build
 
 ---
 
-> Replace `https://github.com/woonnajeevan7-coder/todo-app.git` with your GitHub repository URL.
+> Replace `<YOUR_REPO_LINK_HERE>` with your GitHub repository URL.
