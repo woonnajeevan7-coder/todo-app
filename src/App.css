@@ -435,3 +435,8 @@ body::before {
   .add-btn span { display: none; }
   .todo-actions { opacity: 1; }
 }
+
+/* small UI improvement */
+.todo-item:hover {
+  transform: translateY(-2px);
+}
